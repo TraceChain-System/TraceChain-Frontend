@@ -1,2 +1,2 @@
 // Type definitions for the application
-export {};
+export * from './admin';
